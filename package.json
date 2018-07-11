@@ -1,0 +1,8 @@
+{
+  "name": "chu-table-iview",
+  "version": "1.0.0",
+  "description": "readme",
+  "dependencies": {
+    "throttle-debounce": "^1.0.1"
+  }
+}
