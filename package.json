@@ -1,8 +1,10 @@
 {
   "name": "chu-table-iview",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "readme",
   "dependencies": {
-    "throttle-debounce": "^1.0.1"
+    "throttle-debounce": "^1.0.1",
+    "normalize-wheel": "^1.0.1",
+    "resize-observer-polyfill": "^1.5.0"
   }
 }
