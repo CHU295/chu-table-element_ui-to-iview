@@ -5,7 +5,8 @@
 
 功能全部按照element-ui原先一样
 
-```npm i chu-table-iview
+```
+npm i chu-table-iview
 
 import ChuTable from 'chu-table-iview'
 
